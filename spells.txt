@@ -46,171 +46,171 @@ Wooooooow Hen So Ki vient de presque One-Shot
 0
 2
 10
-Nom pour Kabuflops
-Description1
+Lacération acérée
+Kabuflops lacère violemment
+40
+0
+2
+4
+Fugitif Strike
+Kabuflops tournoie son pied et tel une hélice il découpe 
+70
+0
+2
+7
+High Sky Strike
+Après s'être propulsé au ciel, Kabuflops redescend et ascène un coup de pied tranchant à 
+80
+0
+2
+10
+Danse des lames
+En invoquant l'esprit des lames, Kabuflops aiguise son attaque
+20
 0
 0
+10
+Magicattack
+Attaque en propulsant de la magie à l'ennemi
+20
+0
+2
 1
-0
-Nom pour Kabuflops
-Description
-0
-0
-0
-0
-Nom pour Kabuflops
-Description
-0
-0
-0
-0
-Nom pour Kabuflops
-Description
-0
-0
-0
-0
-Nom pour Sir Dson One
-Description
-0
-0
-0
-0
-Nom pour Sir Dson One
-Description
-0
-0
-0
-0
-Nom pour Sir Dson One
-Description
-0
-0
-0
-0
-Nom pour Sir Dson One
-Description
-0
-0
-0
-0
-Nom pour GO Rl.1
-Description
-0
-0
-0
-0
-Nom pour GO Rl.1
-Description
-0
-0
-0
-0
-Nom pour GO Rl.1
-Description
-0
-0
-0
-0
-Nom pour GO Rl.1
-Description
-0
-0
-0
-0
-Nom pour Derma Grota1
-Description1
-0
-0
-0
-0
-Nom pour Derma Grota2
-Description2
-0
-0
-0
-0
-Nom pour Derma Grota3
-Description3
-0
-0
-0
-0
-Nom pour Derma Grota4
-Description4
-0
-0
-0
-0
-Nom pour Escar Letsgooo
-Description
-0
-0
-0
-0
-Nom pour Escar Letsgooo
-Description
-0
-0
-0
-0
-Nom pour Escar Letsgooo
-Description
-0
-0
-0
-0
-Nom pour Escar Letsgooo
-Description
-0
-0
-0
-0
-Nom pour SekanLeMec
-Description
-0
-0
-0
-0
-Nom pour SekanLeMec
-Description
-0
-0
-0
-0
-Nom pour SekanLeMec
-Description
-0
-0
-0
-0
-Nom pour SekanLeMec
-Description
-0
-0
-0
-0
-Nom pour Quandale Singer
-Description
-0
-0
-0
-0
-Nom pour Quandale Singer
-Description
-0
-0
-0
-0
-Nom pour Quandale Singer
-Description
-0
-0
-0
-0
-Nom pour Quandale Singer
-Description
-0
-0
-0
-0
+Coup Malin
+Envoie de l'énergie noire sur 
+30
+0
+2
+10
+Palette magique
+La force des couleurs s'envole et attaque 
+50
+0
+2
+6
+Explosion Primordiale
+Explose la magie d'espace temps sur 
+120
+0
+2
+10
+Protocol attakattak
+GO RL. 1 SEGMENTATION FAULT :
+40
+0
+2
+20
+Protocole 3 : ERROR 3
+GO RL. 1 ERROR ON 
+20
+0
+2
+10
+Protocole 2 : VIRUS
+GO RL. 1 OPEN AND VIRUS POISON OPEN ERROR ERROR 
+40
+0
+2
+10
+Explosion
+GO RL. 1 DISCHARGE ENERGY TOWARD 
+100
+0
+2
+20
+Nauséabondattaque
+Derma Grota attaque le nez de 
+10
+0
+2
+2
+Dense attaque		
+Derma s'élargit et attaque 
+20
+0
+2
+4
+Derma la montagne
+Derma grandit et s'écrase sur
+200
+0
+2
+30
+Dermattaque
+Demat atarza qs
+15
+0
+2
+2
+Champito
+Escar lance un champi sur 
+20
+0
+2
+1
+Nuance Toxique
+Escar Letsgoooo empoisonne 
+30
+0
+2
+2
+Nuée de nuage
+Aveugle 
+60
+0
+2
+7
+Explosion Champignaque
+Explose la force des champignons sur 
+120
+0
+2
+20
+Flash Attack
+Aussi rapide que la lumière, Sekan attaque 
+20
+0
+2
+1
+Shoryuken
+Sekan execute un uppercut enflammé sur 		
+70
+0
+2
+6
+Falcon Punch
+Falcon, Puuuuuuuunch
+60
+0
+2
+5
+Tatane du Diable
+Sekan frappe d'une Tatane 
+40
+0
+2
+4
+Lancer de poid
+Quandale Singer lance son poid sur 
+80
+0
+2
+10
+Orange Justice
+Clap Plouc Chouk Zouk Pschiouuu 
+30
+0
+2
+1
+Crazy Noisy Bizarre Town
+Shining Justice ! Obliterate :
+20
+0
+2
+5
+Traitor Requiem
+Uragirimononi wa :
+60
+0
+2
+5
