@@ -1,0 +1,18 @@
+Si vous voulez ajouter un personnage, allez dans le fichier exemple.txt et pour créer un personnage, il faut écrire réspectivement sur les 6 lignes
+Première ligne : Nom (chaîne de caractère) (20 caractères)
+Deuxième ligne : PV max (entier)
+Troisième ligne : Attaque (entier)
+Quatrième ligne : Défense (entier)
+Cinquième ligne : Agilité (entier)
+Sixième ligne : Vitesse (entier)
+
+De plus, pour chaque nouveau personnage, pensez à rajouter 4 attaques dans spells.txt
+Chaque attaque est faite de 6 lignes aussi :
+Première ligne : Nom (chaîne de caractère) (20 caractères)
+Deuxième ligne : Description (chaîne de caractère) (100 caractères)
+Troisième ligne : Dégâts (entier) (qui s'additionne aux dégâts d'un personnage pour calculer les dégâts d'une attaque)
+Quatrième ligne : Mode (entier) n'a pas encore été implémenté ...
+Cinquième ligne : Cible (entier) 0 quand la cible est le même personnage, 1 quand la cible est un allié, 2 quand la cible est un ennemi.
+Sixième ligne : CD (entier) (signifie cooldown, soit, temps de rechargement, le temps nécessaire en tour avant de pouvoir réutiliser l'attaque)
+
+Sinon il n'y a pas d'autre expliquations nécessaires, il faut juste répondre lorsque le programme attend une réponse.
