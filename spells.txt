@@ -1,0 +1,216 @@
+Stockage
+Fait un bisou magique à
+0	
+0
+1
+4
+Flex
+Ostario s'étire, montrant de manière nonchalante qu'il est apte à gagner tout fight.
+0
+0
+0
+4
+Noob
+Ostario ne fait rien vazy j'ai pas le temps.
+30
+0
+2
+0
+Dévoreur des Marais
+Ostario lâche un énorme croc dans
+50
+0
+2
+10
+Sh-Huricane
+Hen So Ki lance son fameux ouragan de shuriken sur
+30
+0
+2
+7
+Coup Bas
+C'est un coup bas que Hen So Ki inflige à 
+20
+0
+2
+4
+Fidget Spinner
+Art martial de la rotation utilisé afin d'enchainer
+40	
+0
+2
+8
+Black-Stab
+Wooooooow Hen So Ki vient de presque One-Shot 
+50
+0
+2
+10
+Nom pour Kabuflops
+Description1
+0
+0
+1
+0
+Nom pour Kabuflops
+Description
+0
+0
+0
+0
+Nom pour Kabuflops
+Description
+0
+0
+0
+0
+Nom pour Kabuflops
+Description
+0
+0
+0
+0
+Nom pour Sir Dson One
+Description
+0
+0
+0
+0
+Nom pour Sir Dson One
+Description
+0
+0
+0
+0
+Nom pour Sir Dson One
+Description
+0
+0
+0
+0
+Nom pour Sir Dson One
+Description
+0
+0
+0
+0
+Nom pour GO Rl.1
+Description
+0
+0
+0
+0
+Nom pour GO Rl.1
+Description
+0
+0
+0
+0
+Nom pour GO Rl.1
+Description
+0
+0
+0
+0
+Nom pour GO Rl.1
+Description
+0
+0
+0
+0
+Nom pour Derma Grota1
+Description1
+0
+0
+0
+0
+Nom pour Derma Grota2
+Description2
+0
+0
+0
+0
+Nom pour Derma Grota3
+Description3
+0
+0
+0
+0
+Nom pour Derma Grota4
+Description4
+0
+0
+0
+0
+Nom pour Escar Letsgooo
+Description
+0
+0
+0
+0
+Nom pour Escar Letsgooo
+Description
+0
+0
+0
+0
+Nom pour Escar Letsgooo
+Description
+0
+0
+0
+0
+Nom pour Escar Letsgooo
+Description
+0
+0
+0
+0
+Nom pour SekanLeMec
+Description
+0
+0
+0
+0
+Nom pour SekanLeMec
+Description
+0
+0
+0
+0
+Nom pour SekanLeMec
+Description
+0
+0
+0
+0
+Nom pour SekanLeMec
+Description
+0
+0
+0
+0
+Nom pour Quandale Singer
+Description
+0
+0
+0
+0
+Nom pour Quandale Singer
+Description
+0
+0
+0
+0
+Nom pour Quandale Singer
+Description
+0
+0
+0
+0
+Nom pour Quandale Singer
+Description
+0
+0
+0
+0
